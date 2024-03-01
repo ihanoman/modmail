@@ -50,8 +50,8 @@ module.exports = new eventshandler.event({
                 await user.send({
                     embeds: [
                         new EmbedBuilder()
-                            .setTitle('Your mail has been closed.')
-                            .setDescription(`**${interaction.user.displayName}** has closed your mail since it's marked as completed. Thank you for using our support!`)
+                            .setTitle('Pesan Mu telah di hapus Oleh admin.')
+                            .setDescription(`**${interaction.user.displayName}** Ticket Mu telah di tutup , Terimakasih sudah menghubungi admin!`)
                             .setFooter({
                                 text: `${interaction.guild.name} devs`
                             })
