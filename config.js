@@ -2,7 +2,7 @@ const process = require("process");
 
 module.exports = {
   client: {
-    token: process.env.asu, // ← Your bot token (.env IS RECOMMENDED)
+    token: "MTIwODAwMzYwMjcxNTc3OTEwMg.GjrAiG.CS7Vs7R6UsWBxI7XKn_fPi7oUQhnLO4YKInEWI", // ← Your bot token (.env IS RECOMMENDED)
     id: "1208003602715779102", // ← Your bot ID
   },
   modmail: {
