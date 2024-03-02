@@ -7,9 +7,9 @@ module.exports = {
     id: "1208003602715779102", // ← Your bot ID
   },
   modmail: {
-    guildId: "1211696189687468083", // ← Your server ID
-    categoryId: "1211697890200658043", // ← The modmail category ID
-    staffRoles: ["1211778080352370829"], // ← The modmail staff roles IDs
+    guildId: "1188156317311959100", // ← Your server ID
+    categoryId: "1206579488666947584", // ← The modmail category ID
+    staffRoles: ["1206579427140575263"], // ← The modmail staff roles IDs
     mentionStaffRolesOnNewMail: true, // ← Mention staff roles when there is a new mail?
   },
   logs: {
